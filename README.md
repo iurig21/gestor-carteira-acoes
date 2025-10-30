@@ -1,5 +1,24 @@
 # Gestor de carteira de ações
 
+## Sobre o Projeto
+
+O Gestor de Carteira de Ações é uma aplicação web desenvolvida em Angular que permite aos usuários gerenciar suas carteiras de investimentos em ações de forma simples e intuitiva. Com esta ferramenta, você pode adicionar, editar, visualizar e remover ações do seu portfólio, mantendo um controle organizado dos seus investimentos.
+
+### Funcionalidades
+
+- ✅ Visualização da carteira de ações
+- ✅ Adição de novas ações ao portfólio
+- ✅ Edição de ações existentes
+- ✅ Remoção de ações da carteira
+- ✅ Interface responsiva e intuitiva
+
+## Tecnologias Utilizadas
+
+- **Angular** (v19.2.3) - Framework front-end
+- **JSON Server** - API REST fake para desenvolvimento
+- **TypeScript** - Linguagem de programação
+- **HTML/CSS** - Estrutura e estilização
+
 Este projeto foi gerado usando o [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.3.
 
 ## Requisitos
