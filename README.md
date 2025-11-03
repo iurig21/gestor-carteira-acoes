@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-O Gestor de Carteira de Ações é uma aplicação web desenvolvida em Angular que permite aos usuários gerenciar suas carteiras de investimentos em ações de forma simples e intuitiva. Com esta ferramenta, você pode adicionar, editar, visualizar e remover ações do seu portfólio, mantendo um controle organizado dos seus investimentos.
+Este projeto foi desenvolvido no âmbito da cadeira de **Programação Web II**.O gestor de carteira de ações é uma aplicação web desenvolvida em Angular que permite aos usuários gerenciar suas carteiras de investimentos em ações de forma simples e intuitiva. Com esta ferramenta, você pode adicionar, editar, visualizar e remover ações do seu portfólio, mantendo um controle organizado dos seus investimentos.
 
 ### Funcionalidades
 
@@ -19,7 +19,6 @@ O Gestor de Carteira de Ações é uma aplicação web desenvolvida em Angular q
 - **TypeScript** - Linguagem de programação
 - **HTML/CSS** - Estrutura e estilização
 
-Este projeto foi gerado usando o [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.3.
 
 ## Requisitos
 
@@ -108,9 +107,3 @@ Para testes de ponta a ponta (e2e), execute:
 ```bash
 ng e2e
 ```
-
-O Angular CLI não vem com um framework de testes e2e por padrão. Fique à vontade para escolher um que atenda às suas necessidades.
-
-## Recursos Adicionais
-
-Para mais informações sobre o Angular CLI, incluindo referências detalhadas de comandos, visite a página [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
